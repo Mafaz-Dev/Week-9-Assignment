@@ -1,6 +1,6 @@
 # Week-9-Assignment
 
-Infrastructure Bootcamp Assignment
+Infrastructure Bootcamp Assignment:
 AWS Web Application Deployment with ALB + ASG + S3
 
 ## Clarusway Bootcamp Website Deployment Scenario:
