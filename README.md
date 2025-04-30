@@ -9,7 +9,7 @@ AWS Web Application Deployment with ALB + ASG + S3
  2. Auto Scaling Group for NGINX web servers
  3. Application Load Balancer for traffic distribution
 
- # 🔧 Assignment Tasks
+ ## 🔧 Assignment Tasks
  ## Part 1: S3 Setup (Static Assets)
    1. Created a bucket mafaz-clarusway-assets in eu-north-1
    2. Uploaded the provided (index.html) and Logo files (logo.png, sda.png)
